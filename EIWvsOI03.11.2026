@@ -1,0 +1,33 @@
+
+This structure creates a clear progression from **viewer → participant → member**.
+
+---
+
+# Messaging Example
+
+A simple explanation of the structure:
+
+> I'm E.I. Werner.  
+> I build fantasy worlds live through a show called Make Myth.  
+> The community that gathers around the project is called the Outside Inn.
+
+---
+
+# Key Design Rule
+
+Do not collapse these identities into a single brand.
+
+Maintaining separation allows the project to scale and evolve without confusion.
+
+Each layer should remain clearly defined:
+
+- **Creator** → E.I. Werner  
+- **Show** → Make Myth  
+- **Community** → Outside Inn  
+- **Company** → Outside Inn Studios
+
+---
+
+# Status
+
+This architecture is considered **stable for the Athens Chapter (2026)** and should remain consistent unless a major structural change is required.
